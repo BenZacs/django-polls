@@ -1,3 +1,5 @@
-# Django tutorial
+# Mysite
 
-The first webite make from dajango by follow the tutorial 
+The first website make from dajango by follow the tutorial 
+
+###### by Kasidit Wongpaiboon 6110545422
